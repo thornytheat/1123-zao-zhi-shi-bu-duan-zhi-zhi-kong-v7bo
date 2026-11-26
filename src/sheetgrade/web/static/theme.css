@@ -1,0 +1,11 @@
+:root {
+    color-scheme: light;
+    --bg: #fcf9f1; --background: var(--bg);
+    --surface: #fffdf8; --ink: #2c2c22; --muted: #676457;
+    --accent: #6e6031; --border: #d6cdb0; --wash: #eae2c8;
+    --rail: #eddfbd; --on-rail: #3b321b; --on-accent: #fffdf8;
+    --error: #a72338;
+    --display: "Songti SC","STSong",serif; --type: "Songti SC",serif;
+    --radius: 0px; --gutter: 24px; --title: 38px;
+    --base: 14px;
+}
